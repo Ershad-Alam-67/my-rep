@@ -29,3 +29,4 @@ var isValid = function (s) {
 console.log(isValid("{()}[]"));
 //i am here
 console.log("hi");
+console.log("hi");
